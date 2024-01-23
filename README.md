@@ -1,3 +1,3 @@
 # Website
 
-Created a website for web development cw2
+Created an e-commerce website
